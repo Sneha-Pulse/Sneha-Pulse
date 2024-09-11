@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+🌟 Hey there! I’m Sneha, an AI and Machine Learning enthusiast with a deep love for Data Science and innovative tech. 
+I enjoy building cool projects that tackle real-world challenges, from predicting air quality to developing intelligent chatbots. 
+Here, you'll find my journey through code, experiments, and exciting breakthroughs. 
+
+Let’s explore the future of AI together! 🚀
+
 <!--
 **Sneha-Pulse/Sneha-Pulse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
